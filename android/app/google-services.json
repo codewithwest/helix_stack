@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934354064974",
+    "project_id": "westdynamics-helix",
+    "storage_bucket": "westdynamics-helix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934354064974:android:2e3d68303fda71c7f5151f",
+        "android_client_info": {
+          "package_name": "com.example.helix_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934354064974-jd441umg6dgsrsg94akmaml6gi7kdn3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ9xGva4PP-VqYCcU6VBrKRlPfpZPdxqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934354064974-jd441umg6dgsrsg94akmaml6gi7kdn3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
